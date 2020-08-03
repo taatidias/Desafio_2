@@ -8,14 +8,14 @@ As instruções a seguir fornecerão meios de como iniciar o projeto Desafio2 pa
 
 ### Pré requisitos
 
-
--Necessário ter instalado o sistema operacional Windows.
--[Python 3.8.5](https://www.python.org/downloads/windows/)
--[Pycharm](https://www.jetbrains.com/pt-br/pycharm/download/#section=windows)
--Appium
--Behave
--PIP 
-
+```
+Necessário ter instalado o sistema operacional Windows.
+Python 3.8.5
+[Pycharm]
+Appium
+Behave
+PIP 
+```
 
 ### Automatizando os testes
 
