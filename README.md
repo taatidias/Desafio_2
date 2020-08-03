@@ -11,7 +11,7 @@ As instruções a seguir fornecerão meios de como iniciar o projeto Desafio2 pa
 ```
 Necessário ter instalado o sistema operacional Windows.
 Python 3.8.5
-[Pycharm]
+Pycharm 2020.1.4 x64
 Appium
 Behave
 PIP 
