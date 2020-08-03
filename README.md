@@ -9,13 +9,13 @@ As instruções a seguir fornecerão meios de como iniciar o projeto Desafio2 pa
 ### Pré requisitos
 
 ```
-1.Necessário ter instalado o sistema operacional Windows.
-2.Python 3.8.5
-3.Pycharm 2020.1.4 x64
-4.Appium
-5.Behave
-6.PIP 
-7.Environment.py esteja configurado de acordo com as especificações do dispositivo testado.
+Necessário ter instalado o sistema operacional Windows.
+Python 3.8.5
+Pycharm 2020.1.4 x64
+Appium
+Behave
+PIP 
+Environment.py esteja configurado de acordo com as especificações do dispositivo testado.
 ```
 
 ### Automatizando os testes
