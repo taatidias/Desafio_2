@@ -15,6 +15,7 @@ Pycharm 2020.1.4 x64
 Appium
 Behave
 PIP 
+environment.py esteja configurado de acordo com as especificações do dispositivo testado.
 ```
 
 ### Automatizando os testes
@@ -93,7 +94,7 @@ app = os.path.abspath(app)
             'appPackage': 'com.android.mobile'
 
 ```
- O Appium já traz preenchido alguns campos, dentre eles: Remote Host: 127.0.0.1, Remote Path: /wd/hub e Remote Port: 4327. Para iniciar a sessão, entretando dois campos ao menos devem ser preenchidos de acordo com a informação desejada. ('platformName:' e 'deviceName').
+ O Appium já traz preenchido alguns campos, dentre eles: Remote Host: 127.0.0.1, Remote Path: /wd/hub e Remote Port: 4327 (pode ser alterada de acordo com o valor desejado). Para iniciar a sessão, entretando dois campos ao menos devem ser preenchidos de acordo com a informação desejada. ('platformName:' e 'deviceName').
 
 ### Resultado esperado da bateria de testes
 
